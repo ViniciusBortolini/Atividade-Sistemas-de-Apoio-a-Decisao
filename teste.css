@@ -1,0 +1,23 @@
+body {
+    background: transparent;
+    color: #fff;
+    font-family: Poppins;
+}
+
+#cadastro input[type=text], #cadastro input[type=tel], #cadastro input[type=email] {
+    padding: 20px 10px;
+    width: 100%;
+    margin-bottom: 5px;
+    border: none;
+}
+
+#cadastro input[type=radio] {
+    margin: 0px 5px 0px 5px;
+}
+
+
+#cadastro textarea {
+    width: 100%;
+    height: 50px;
+margin: 10px 0;
+}
